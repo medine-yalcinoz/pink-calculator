@@ -1,6 +1,6 @@
 # 🎀 Pink Calculator
 
-A cute and user-friendly desktop calculator built with **C#**, **WPF**, and **.NET 8**.
+A desktop calculator application built with **C#**, **WPF**, and **.NET 8**, featuring a custom pink-themed user interface and keyboard support.
 
 This is my first desktop application project, developed as a learning project to practice C# programming fundamentals, event-driven programming, user interface design, and basic application logic.
 
@@ -56,7 +56,7 @@ While developing this project, I practiced:
 ### Running the Project
 
 1. Clone this repository.
-2. Open the solution file in Visual Studio.
+2. Open `PinkCalculator.sln` in Visual Studio.
 3. Build the project.
 4. Run the application.
 
